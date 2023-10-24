@@ -1,6 +1,6 @@
 'use strict';
 
-/* Magic Mirror
+/* MagicMirror²
  * Module: MMM-OpenSprinkler
  *
  * Originally By Adrian Chrysanthou

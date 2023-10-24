@@ -1,7 +1,7 @@
 {
-  "name": "Magic-Mirror-Module-OpenSprinkler",
+  "name": "mmm-opensprinkler",
   "version": "2.0",
-  "description": "MagicMirror2 Module to display OpenSprinkler Stats.",
+  "description": "MagicMirror² module to display OpenSprinkler stats.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johnny-co/MMM-OpenSprinkler"
@@ -11,15 +11,18 @@
     "smart mirror",
     "sprinkler",
     "opensprinkler",
-    "module",
+    "module"
   ],
   "author": "John Cohron",
-  "contributors": "https://github.com/johnny-co/MMM-OpenSprinkler/graphs/contributors",
+  "contributors": [
+    "https://github.com/johnny-co/MMM-OpenSprinkler/graphs/contributors"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnny-co/MMM-OpenSprinkler/issues"
   },
   "homepage": "https://github.com/johnny-co/MMM-OpenSprinkler#readme",
   "dependencies": {
-    }
+    "request": "^2.88.2"
+  }
 }
