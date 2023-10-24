@@ -14,12 +14,15 @@
     "module"
   ],
   "author": "John Cohron",
-  "contributors": ["https://github.com/johnny-co/MMM-OpenSprinkler/graphs/contributors"],
+  "contributors": [
+    "https://github.com/johnny-co/MMM-OpenSprinkler/graphs/contributors"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnny-co/MMM-OpenSprinkler/issues"
   },
   "homepage": "https://github.com/johnny-co/MMM-OpenSprinkler#readme",
   "dependencies": {
-    }
+    "request": "^2.88.2"
+  }
 }
