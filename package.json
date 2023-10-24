@@ -1,5 +1,5 @@
 {
-  "name": "Magic-Mirror-Module-OpenSprinkler",
+  "name": "mmm-opensprinkler",
   "version": "2.0",
   "description": "MagicMirror2 Module to display OpenSprinkler Stats.",
   "repository": {
